@@ -1,14 +1,4 @@
-## 👋 <span id="greeting">Привет!</span> Я Александр
-
-<script>
-  const hours = new Date().getHours();
-  let greeting = "Привет!";
-  if (hours < 6) greeting = "Доброй ночи!";
-  else if (hours < 12) greeting = "Доброе утро!";
-  else if (hours < 18) greeting = "Добрый день!";
-  else greeting = "Добрый вечер!";
-  document.getElementById("greeting").innerText = greeting;
-</script>
+## 👋 Привет! Я Александр
 
 ### 🔍 QA Manual | Software Testing | Bug Tracking
 
