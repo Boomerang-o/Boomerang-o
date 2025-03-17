@@ -1,16 +1,51 @@
-## Hi there 👋
+## 👋 <span id="greeting">Привет!</span> Я Александр
 
-<!--
-**Boomerang-o/Boomerang-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<script>
+  const hours = new Date().getHours();
+  let greeting = "Привет!";
+  if (hours < 6) greeting = "Доброй ночи!";
+  else if (hours < 12) greeting = "Доброе утро!";
+  else if (hours < 18) greeting = "Добрый день!";
+  else greeting = "Добрый вечер!";
+  document.getElementById("greeting").innerText = greeting;
+</script>
 
-Here are some ideas to get you started:
+### 🔍 QA Manual | Software Testing | Bug Tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Сейчас нахожусь во Вьетнаме
+- 📚 Изучаю QA Manual, ищу удалённую работу
+- 🎯 Постоянно учусь и улучшаю свои навыки
+- 🛠️ Опыт работы с тестированием веб и мобильных приложений
+- 📋 Написание тест-кейсов, чек-листов, баг-репортов
+- 🔄 Тестирование API, работа с логами и прокси-инструментами
+---
+### 📂 Мои примеры работ:
+
+- [Баг-репорты (пример)](https://github.com/Boomerang-o/bug-reports)
+- [Чек-листы и тест-кейсы (пример)](https://github.com/Boomerang-o/test-cases)
+- [SQL-запросы (пример)](https://github.com/Boomerang-o/sql-queries)
+---
+![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
+### ⚙️ Технологии и инструменты:
+
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?style=flat-square&logo=google-chrome&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Charles Proxy](https://img.shields.io/badge/-Charles%20Proxy-4285F4?style=flat-square&logo=google-chrome&logoColor=white)   
+![TestRail](https://img.shields.io/badge/-TestRail-71B556?style=flat-square&logo=testrail&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)   
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)    
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)     
+![Git Bash](https://img.shields.io/badge/-Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+---
+
+### 📬 Связаться со мной:
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/B00merango) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandrkuvychkin/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:motion.boomerang@gmail.com)
+
+---
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Boomerang-o)
