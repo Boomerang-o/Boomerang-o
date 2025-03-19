@@ -11,8 +11,9 @@
 ---
 ### 📂 Мои примеры работ:
 
-- [Баг-репорты (пример)](https://github.com/Boomerang-o/bug-reports)
-- [Чек-листы и тест-кейсы (пример)](https://github.com/Boomerang-o/test-cases)
+- [Баг-репорты (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/bug_reports)
+- [Чек-листы (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/checklists)
+- [тест-кейсы (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/test_cases)
 - [SQL-запросы (пример)](https://github.com/Boomerang-o/sql-queries)
 ---
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
