@@ -15,6 +15,7 @@
 - [Чек-листы (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/checklists)
 - [тест-кейсы (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/test_cases)
 - [SQL-запросы (пример)](https://github.com/Boomerang-o/QA-Portfolio/blob/main/MySQL_queries/sql_queries.sql)
+- [Тестовые задания](https://github.com/Boomerang-o/QA-Portfolio/blob/main/test_tasks)
 ---
 ![GIF](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
 
