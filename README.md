@@ -5,15 +5,15 @@
 - 🌍 Сейчас нахожусь во Вьетнаме
 - 📚 Изучаю QA Manual, ищу удалённую работу
 - 🎯 Постоянно учусь и улучшаю свои навыки
-- 🛠️ Опыт работы с тестированием веб и мобильных приложений
+- 🛠️ Опыт тестирования веб- и мобильных приложений в учебных проектах
 - 📋 Написание тест-кейсов, чек-листов, баг-репортов
 - 🔄 Тестирование API, работа с логами и прокси-инструментами
 ---
 ### 📂 Мои примеры работ:
 
-- [Баг-репорты (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/bug_reports)
+- [Баг-репорты (с примерами оформления ошибок в приложениях)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/bug_reports)
 - [Чек-листы (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/checklists)
-- [тест-кейсы (пример)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/test_cases)
+- [тест-кейсы (описание сценариев тестирования)](https://github.com/Boomerang-o/QA-Portfolio/tree/main/twitch_login_testing/test_cases)
 - [SQL-запросы (пример)](https://github.com/Boomerang-o/QA-Portfolio/blob/main/MySQL_queries/sql_queries.sql)
 - [Тестовые задания](https://github.com/Boomerang-o/QA-Portfolio/blob/main/test_tasks)
 ---
@@ -40,4 +40,4 @@
 
 ---
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Boomerang-o)
+![Profile Views](https://komarev.com/ghpvc/?username=Boomerang-o&color=blue)
